@@ -1,5 +1,5 @@
 # [tellme-client crate (nightly)](https://crates.io/crates/tellme-client)
-[![build](https://github.com/clowzed/tellme-client/actions/workflows/build.yml/badge.svg)](https://github.com/clowzed/tellme-client/actions/workflows/build.yml) ![GitHub](https://img.shields.io/github/license/clowzed/tellme-client?color=g)
+[![Build check](https://github.com/clowzed/tellme-client/actions/workflows/build.yml/badge.svg)](https://github.com/clowzed/tellme-client/actions/workflows/build.yml) ![GitHub](https://img.shields.io/github/license/clowzed/tellme-client?color=g)
 
 
 Wrapper over tellme service registry API.
