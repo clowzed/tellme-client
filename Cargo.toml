@@ -1,0 +1,12 @@
+[package]
+name = "tellme-client"
+version = "2.0.0"
+edition = "2021"
+description = "Wrapper around tellme service registry API"
+author = "Miasnenko Dmitry <clowzed.work@gmail.com>"
+license = "MIT"
+
+[dependencies]
+reqwest = { version = "0.11.16", features = ["json"] }
+serde = "1.0.159"
+url = { version = "2.3.1", features = ["serde"] }
